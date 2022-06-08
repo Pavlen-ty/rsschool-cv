@@ -14,8 +14,10 @@
 ---
 ### Personal Information:
 I have graduated from the Faculty of International Relations of the Belarusian State University.
-In work I am careful, responsible, stress-resistant. I have experience in the field of translation from English. I am good team player, doing well with a large amount of information.
+In work I am careful, responsible, stress-resistant. I have experience in the field of translation from legal English. I am good team player, doing well with a large amount of information.
 Also, I have experience in the field of international public law, humanitarian law, had practice of drafting legal documents, written legal translation from English and vice versa.
+
+Now I have decided to change my area of activity and become JavaScript developer. I hope that my previously acquired skills will help me in mastering a new profession.
 
 ---
 ### Skills:
