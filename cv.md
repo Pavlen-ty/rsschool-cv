@@ -9,6 +9,7 @@
 * Phone: +375299634740
 * Github: [Pavlen-ty](https://github.com/Pavlen-ty)
 * Discord: @Pavlen-ty
+* Address: Minsk, Belarus
 
 ---
 ### Personal Information:
