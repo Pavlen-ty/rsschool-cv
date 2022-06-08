@@ -8,7 +8,7 @@
 * Email: pav.antipin@gmail.com
 * Phone: +375299634740
 * Github: [Pavlen-ty](https://github.com/Pavlen-ty)
-* Discord: @Pavlen-ty
+* Discord: @Pavlen-ty #6261
 * Address: Minsk, Belarus
 
 ---
