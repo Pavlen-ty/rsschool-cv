@@ -1,5 +1,6 @@
 # Pavel Antsipin
 
+![](https://user-images.githubusercontent.com/75178720/172594687-774d7acf-d267-4633-8488-6fa384175f4e.png)
 
 ## RS School's Trainee
 
