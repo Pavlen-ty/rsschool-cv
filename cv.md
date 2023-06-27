@@ -37,7 +37,7 @@ let s = "";
 for (let i = 1; i <10000; i += 1) {
   s += i + " ";
 }
-console.(s);
+console.log(s);
 ```
 
 
