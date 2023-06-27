@@ -12,7 +12,7 @@
 
 
 ---
-## Personal Information
+## Personal Information:
 
 
 I have graduated from the Faculty of International Relations of the Belarusian State University. I'm careful, responsible, stress-resistant. I have experience in the field of translation from legal English. I am a good team player, doing well with a large amount of information. Also, I have experience in the field of international public law, practice of drafting legal documents, written legal translation from English and vice versa.
