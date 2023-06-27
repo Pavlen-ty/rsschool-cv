@@ -47,7 +47,7 @@ I had practice as intern at the Paralympic Committee of the Republic of Belarus 
 
 
 ---
-## Educatio:
+## Education:
 Belarusian State University, Faculty of International Relations
 
 
